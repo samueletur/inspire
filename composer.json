@@ -1,0 +1,19 @@
+{
+    "name": "samueletur/inspire",
+    "description": "Inspiration quotes in your project",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Samueletur\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Samuel Etur",
+            "email": "samuel@incode.com.br"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
